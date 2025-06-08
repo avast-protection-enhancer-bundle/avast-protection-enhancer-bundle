@@ -1,0 +1,1 @@
+# avast-protection-enhancer-bundle
